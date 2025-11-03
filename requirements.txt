@@ -1,0 +1,11 @@
+flask==3.0.3
+flask_sqlalchemy==3.1.1
+psycopg2-binary==2.9.9
+requests==2.32.3
+numpy==2.1.2
+pandas==2.2.2
+scikit-learn==1.5.2
+shap==0.45.1
+
+#pip install -r requirements.txt을 통해 다른 PC에서도 동일 환경으로 실행 가능
+#이 메시지를 확인한 후에는 삭제하세요~b01am씨~
