@@ -79,3 +79,4 @@ class TrackPairStat(db.Model):
     score_jaccard = db.Column(db.Float)
     score_lift = db.Column(db.Float)
     last_computed_at = db.Column(db.DateTime, default=datetime.utcnow)
+    
